@@ -19,9 +19,9 @@ Edit the `consts/consts.go` file and fill in the missing parts:
 
 ```go
 const (
-    HRP    = "Thirdtoken"
-    Name   = "ThirdWeb"
-    Symbol = "TWB"
+    HRP    = "toshik"
+    Name   = "baingan"
+    Symbol = "BG"
 )
 ```
 
