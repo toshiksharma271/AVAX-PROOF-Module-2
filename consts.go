@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Thirdtoken"
+	HRP = "toshik"
 	// TODO: choose a name for your hyperchain
-	Name = "ThirdWeb"
+	Name = "baingan"
 	// TODO: choose a token symbol
-	Symbol = "TWB"
+	Symbol = "BG"
 )
 
 var ID ids.ID
